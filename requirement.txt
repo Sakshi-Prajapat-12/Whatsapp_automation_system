@@ -1,0 +1,37 @@
+Whatsapp Automation System
+
+   Project Objective
+   to automate  sending Whatsapp messages and images to multiple users using python , enabling business or individuals for saving
+   time or manual efforts.
+
+    1.Functional requirement
+    1.1 upload contact list
+    1.2 validate phone number
+    
+    2.message Automation
+    2.1 send text messages
+    2.2 send images with captions
+
+    3.Whatsapp integration
+    3.1 open Whatsapp web automatically
+    3.2 send message using pywhatkit
+
+    4.status
+    4.1 track total send number
+
+   2.Non Functional requirement
+    perfomance --send message
+    security - secure file upload
+    usability - easy upload and send process
+    scalibilty - future support for APIs
+
+    3.Software requirement
+    language - python 3.12
+    framework - flask
+    database - mysql
+    libraries - pywhatkit, pandas
+    fronted - HTML,CSS
+    
+   
+ 
+   
