@@ -14,10 +14,10 @@ app.config['Upload_Folder']='uploads'
 
 # database connection 
 db=mysql.connector.connect(
-host="localhost",#use your system sql host
-user="root", # user name
-password="root", #password
-database="whatsapp_db" # schema
+host="",#use your system sql host
+user="", # user name
+password="", #password
+database="" # schema
 
 
 
