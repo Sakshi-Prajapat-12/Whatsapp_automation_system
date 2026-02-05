@@ -10,7 +10,7 @@ import mysql.connector
 import random
 # backend logic 
 app=Flask(__name__)
-app.config['Upload_Folder']='uploads' 
+app.config['Upload_Folder']='uploads' # create a folder called 'uploads' to store uploaded files.
 
 # database connection 
 db=mysql.connector.connect(
